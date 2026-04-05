@@ -1,0 +1,21 @@
+# Virtual environment
+.Aviation_matrix/
+
+# API Keys - NEVER commit this
+.env
+
+# Data files
+data/
+*.csv
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
